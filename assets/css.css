@@ -1,0 +1,28 @@
+body {
+	font-size: medium;
+	color: white;
+	font-weight: bold;
+	font-family:"Times New Roman", Times, serif;
+	text-align: center;
+	background: #ccc;
+}
+
+.application {
+	background-color: black;
+	color: white;
+	text-align: center; 
+}
+.user, .password {
+	background-color: white;
+	color: black;
+	text-align: left;
+	border: 1px solid black;
+}
+
+.crypt{
+	color: red;
+}
+
+.clear_float{
+	clear:both;
+}
